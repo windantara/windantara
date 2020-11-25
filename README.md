@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on PT. Guna Surya Perkasa & also my company Awwbit Digital
-Get in touch on : <a href="https://www.linkedin.com/in/windantara/" target="_blank">Linkedin</a>
+- 🔭 I’m currently working on PT. Guna Surya Perkasa & also my company Awwbit Digital<br>
+Get in touch : <a href="https://www.linkedin.com/in/windantara/" target="_blank">Linkedin</a>
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=windantara)](https://github.com/anuraghazra/github-readme-stats)
