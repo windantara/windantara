@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px">
 
 <!--
 **windantara/windantara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on PT. Guna Surya Perkasa & also my company Awwbit Digital
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=windantara)](https://github.com/anuraghazra/github-readme-stats)
